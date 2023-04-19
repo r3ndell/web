@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div style="box-sizing: border-box; background: #a6ff00c7 ; text-align: center; margin: 8px 0; padding: 8px 16px; border: 1px solid rgb(255, 0, 0);">
+        Однажды весною, в час небывало <span style = "background: yellow;">жаркого</span> заката, в <span style="display: inline-block; padding: 8px; background: red;">Москве</span>,  
+        на Патриарших прудах, появились два гражданина. 
+        Первый из них, одетый в <span style = "background: yellow;">летнюю серенькую</span> пару, 
+        был <span style = "background: yellow;">маленького</span> роста, упитан, лыс, свою <span style = "background: yellow;">приличную</span> шляпу 
+        пирожком нес в руке, а на хорошо выбритом лице его помещались 
+        <span style = "background: yellow;">сверхъестественных</span> размеров очки в <span style = "background: yellow;">черной роговой</span> оправе. 
+        Второй – <span style = "background: yellow;">плечистый, рыжеватый, вихрастый молодой</span> человек в
+        <span style = "background: yellow;">заломленной на затылок клетчатой</span> кепке – был в ковбойке, 
+        <span style = "background: yellow;">жеваных белых</span> брюках и в <span style = "background: yellow;">черных</span> тапочках.
+    </div>
+    
+    <div style="width: 500px; background: linear-gradient(90deg, #02bd2b, #ffa6f3); text-align: right; margin: 8px 0; padding: 8px 16px; border: 5px solid rgb(28, 11, 253);">
+        <span style = "background: yellow;">Первый</span> был не кто иной, как  <span style = "background: linear-gradient(90deg, #bd0a9f, #eeff00);display: inline-block; padding: 8px;">Михаил Александрович Берлиоз</span>, председатель правления одной из <span style = "background: yellow;">крупнейших</span> <span style = "background: yellow;">московских литературных</span>  ассоциаций, сокращенно именуемой МАССОЛИТ, и редактор <span style = "background: yellow;">толстого</span> <span style = "background: yellow;">художественного</span> журнала, а <span style = "background: yellow;">молодой</span> спутник его — поэт <span style = "background: white;display: inline-block; padding: 8px;">Иван Николаевич Понырёв</span>, пишущий под <br> псевдонимом <span style = "background: yellow;display: inline-block; padding: 8px;">Бездомный</span>.
+    </div>
+    
+    <div style="width: 50%; box-sizing: border-box; background: #f260ffc7 ; text-align: left; margin: 8px 0; padding: 8px 16px; border: 3px solid rgb(192, 12, 12);">
+        Попав в тень чуть <span style = "background: yellow;">зеленеющих</span> лип, писатели первым делом бросились к <span style = "background: yellow;">пёстро раскрашенной</span>  будочке с надписью «Пиво и воды»
+    </div>
+    
+</div>
+</body>
+</html>
